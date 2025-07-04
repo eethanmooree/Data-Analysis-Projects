@@ -69,9 +69,9 @@ The dashboard helps answer:
 
 ## 👤 Author
 
-**Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com) | [Portfolio](https://github.com/yourusername)
+**Ethan Moore**  
+📧 ethanmoore2907@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/ethan-moore-21a72b208/) | [Portfolio](https://github.com/eethanmooree)
 
 ---
 
